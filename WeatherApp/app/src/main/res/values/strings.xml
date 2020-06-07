@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="city_name_label">City Name</string>
+    <string name="city_name_text">City Name</string>
+    <string name="temperature_text">Temperature</string>
+    <string name="pressure_text">Pressure</string>
+    <string name="humidity_text">Humidity</string>
+    <string name="weather_text">Weather</string>
+</resources>
